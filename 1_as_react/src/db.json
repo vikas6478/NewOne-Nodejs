@@ -1,0 +1,16 @@
+{
+  "cart": [
+    {
+      "id": "a101",
+      "name": "Vikas",
+      "city": "Bhopal M.P",
+      "image": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": "d492",
+      "name": "Vikas",
+      "city": "Bhopal",
+      "image": "https://via.placeholder.com/300x200"
+    }
+  ]
+}
